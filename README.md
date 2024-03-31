@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eben
-- 👀 I’m interested by web and mobile développement
+- 👀 I’m interested by web and mobile developpement
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on important projet Open Source
   
